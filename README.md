@@ -1,4 +1,4 @@
-본 프로젝트는 학습을 목적으로 LE-LABO 사이트를 클론하여 진행되었습니다.
+본 프로젝트는 학습을 목적으로 CLASS101 사이트를 클론하여 진행되었습니다.
 [시연 영상 링크](https://youtu.be/19a3XHCImD4)
 
 ## **🔎 Project Description**
@@ -28,6 +28,8 @@
 - Notion
 
 ## **📝 ERD**
+![NotFound404](https://user-images.githubusercontent.com/66771425/159519762-d1b0a87e-3c25-4c57-b711-cb365cbb5e9a.png)
+
 
 ## **🖥 구현 기능**
 
